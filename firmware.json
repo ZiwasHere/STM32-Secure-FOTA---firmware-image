@@ -1,6 +1,6 @@
 {
-    "version": "v1.15",
-    "url": "https://github.com/ZiwasHere/STM32-Secure-FOTA---firmware-image/releases/download/v1.15/STM32-Secure-FOTA-application.bin",
-    "crc": "573CB1AA",
-    "size": 74188
+    "version": "v1.16",
+    "url": "https://github.com/ZiwasHere/STM32-Secure-FOTA---firmware-image/releases/download/v1.16/STM32-Secure-FOTA-application.bin",
+    "crc": "DD877A62",
+    "size": 8652
 }
