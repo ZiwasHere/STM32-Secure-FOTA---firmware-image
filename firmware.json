@@ -1,7 +1,7 @@
 {
     "version": "v1.22",
-    "release_tag": "v1.22-invalid-signature-test-20260515-130737",
-    "url": "https://github.com/ZiwasHere/STM32-Secure-FOTA---firmware-image/releases/download/v1.22-invalid-signature-test-20260515-130737/STM32-Secure-FOTA-application.bin",
+    "release_tag": "v1.22",
+    "url": "https://github.com/ZiwasHere/STM32-Secure-FOTA---firmware-image/releases/download/v1.22/STM32-Secure-FOTA-application.bin",
     "size": 74188,
     "sha256": "090e4aec8608a907f908600ea01f32ef77a880be2164c45ca717d3d2c2275ff7",
     "test_case": "invalid-signature",
