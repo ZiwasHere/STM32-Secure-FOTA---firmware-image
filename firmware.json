@@ -1,6 +1,6 @@
 {
-    "version": "v1.37",
-    "url": "https://github.com/ZiwasHere/STM32-Secure-FOTA---firmware-image/releases/download/v1.37/STM32-Secure-FOTA-application.bin",
+    "version": "v1.38",
+    "url": "https://github.com/ZiwasHere/STM32-Secure-FOTA---firmware-image/releases/download/v1.38/STM32-Secure-FOTA-application.bin",
     "size": 74204,
     "sha256": "6bf3e59fb16a5d876fbcea85d2167665c9bfcceaca9be32b0cf98f73122f7aa7",
     "test_case": "invalid-signature",
