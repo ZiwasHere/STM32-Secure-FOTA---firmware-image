@@ -1,8 +1,8 @@
 {
-    "version": "v1.46",
+    "version": "v1.47",
     "url": "https://raw.githubusercontent.com/ZiwasHere/STM32-Secure-FOTA---firmware-image/main/firmware/latest.bin",
     "size": 31596,
     "sha256": "f2d2ab1c43bae0f0a83c3c46aaa45d080925d094ab4340705926c71915a88a15",
     "signature_algorithm": "ECDSA-P256-SHA256",
-    "signature": "fe7643d5dc78bfe2dd11073e7de18ecee74683b1118736d93f9fa55da88211b50ef75611a0e443750aaca6f3a1ddac115196c75e7126ff8792e9b88298d6a3ab"
+    "signature": "d4b204d2736e39400a07dcb2332831bc1bf992a4e466af674841400b778eff9c0b674ecaf4005ff0c02b2da3502d157896e15326bb89a7a03fbe23bc5121e070"
 }
