@@ -1,8 +1,8 @@
 {
-    "version": "v1.63",
-    "url": "https://github.com/ZiwasHere/STM32-Secure-FOTA---firmware-image/releases/download/v1.63/STM32-Secure-FOTA-application.bin",
-    "size": 98156,
-    "sha256": "57b1ed23eb5ec42c029fe679688588703ae51d5993a9d21a11ab4d3382e8f8fc",
-    "test_case": "invalid-signature",
-    "expected_result": "bootloader-rejects-image"
+    "version": "v1.64",
+    "url": "https://raw.githubusercontent.com/ZiwasHere/STM32-Secure-FOTA---firmware-image/main/firmware/latest.bin",
+    "size": 34552,
+    "sha256": "86d96a701d0b6594800e0147ad8a792dddf175543717dcdb15ea58d652e8c5e7",
+    "signature_algorithm": "ECDSA-P256-SHA256",
+    "signature": "cc7b8b2df874e46ed88b0b0c612faaa96b8d6cd7a1d6f88060761fd4025ae31962c63fc156b4e42eeb6aed76456031b83de4d46b9ea3fe6c9d8e204c092c7429"
 }
